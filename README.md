@@ -28,5 +28,12 @@ It is designed to be hosted on **Koyeb** or **Heroku** with zero advertisements.
 ## 🚀 Deployment on Koyeb
 
 1. Create a new account on [Koyeb](https://www.koyeb.com/).
-2. Create a new Service and
-3. 
+2. Create a new Service and connect your GitHub repository.
+3. Ensure your repository is **Private** to protect your credentials.
+4. Set the following:
+   - **Port:** 8080
+   - **Protocol:** HTTP
+5. Deploy! Your bot will be online.
+
+## ⚠️ Privacy Warning
+Always keep your repository **Private** if you are hardcoding your `API_ID`, `API_HASH`, and `BOT_TOKEN` inside `main.py`.
