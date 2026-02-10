@@ -4,10 +4,10 @@ from threading import Thread
 from telethon import TelegramClient, events
 
 # --- CONFIGURATION ---
-API_ID = 1234567               # Replace with your API ID
-API_HASH = 'your_api_hash'     # Replace with your API HASH
-BOT_TOKEN = 'your_bot_token'   # Replace with your Bot Token
-OWNER_ID = 987654321           # Replace with your Chat ID
+API_ID = 24670806               # Replace with your API ID
+API_HASH = '82134723a32b2cae76b9cfb3b1570745'     # Replace with your API HASH
+BOT_TOKEN = '8246857362:AAH048LKLcdI_C3y_0RvLIA9qz2B3OrawvI'   # Replace with your Bot Token
+OWNER_ID = 8229228616           # Replace with your Chat ID
 # ---------------------
 
 # Flask app to keep the bot alive on Koyeb
